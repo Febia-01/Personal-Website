@@ -14580,10 +14580,11 @@ a.navbar-brand span.fa {
 }
 
 a {
-  color: white;
+  color: black;
   text-decoration: none;
   cursor: pointer;
 }
+
 
 .wrapper-container {
   position: relative;
